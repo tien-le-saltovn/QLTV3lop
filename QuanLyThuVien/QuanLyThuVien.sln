@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyThuVien", "QuanLyThuVien\QuanLyThuVien.csproj", "{2346FCBD-7E1B-4332-82DC-BF7433D806C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForm", "WebForm\WebForm.csproj", "{523C08AF-4DEA-47AE-848A-5F2F6F614DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{4C4C0A96-7143-4CB5-A52F-5EFEAFF35139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2346FCBD-7E1B-4332-82DC-BF7433D806C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2346FCBD-7E1B-4332-82DC-BF7433D806C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2346FCBD-7E1B-4332-82DC-BF7433D806C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2346FCBD-7E1B-4332-82DC-BF7433D806C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{523C08AF-4DEA-47AE-848A-5F2F6F614DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{523C08AF-4DEA-47AE-848A-5F2F6F614DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{523C08AF-4DEA-47AE-848A-5F2F6F614DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{523C08AF-4DEA-47AE-848A-5F2F6F614DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4C0A96-7143-4CB5-A52F-5EFEAFF35139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4C0A96-7143-4CB5-A52F-5EFEAFF35139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4C0A96-7143-4CB5-A52F-5EFEAFF35139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4C0A96-7143-4CB5-A52F-5EFEAFF35139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
